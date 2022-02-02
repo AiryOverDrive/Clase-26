@@ -1,2 +1,2 @@
-# Clase-26
-Avance del juego del pirata
+# PRO-C22
+estructura alámbrica para c22 
